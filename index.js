@@ -7,7 +7,6 @@
         + If a plane lands, its `isFlying` property is set to false.
 */
 
-
 // EXAMPLE SOLUTION CODE:
 function Airplane(name) {
   this.name = name;
@@ -26,6 +25,7 @@ Airplane.prototype.land = function () {
 // 👇 COMPLETE YOUR WORK BELOW 👇
 // 👇 COMPLETE YOUR WORK BELOW 👇
 */
+
 
 /*
   TASK 1
